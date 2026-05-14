@@ -1,0 +1,3 @@
+-- Baseline migration for existing database.
+-- If the database has tables, Flyway will mark this as applied due to baseline-on-migrate=true.
+-- Future migrations should be added as V2__xxx.sql, V3__xxx.sql, etc.
